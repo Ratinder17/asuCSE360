@@ -1,0 +1,4 @@
+Patient ID: 50714
+First Name: Ratinder
+Last Name: Joshi
+Exam Date: 10-04-2024

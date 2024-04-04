@@ -1,0 +1,8 @@
+Patient ID: 73498
+The Total Agaston CAC Score: 1
+Vessel Level Agaston CAC Score
+LM: 2
+LAD: 3
+LCX: 4
+RDA: 5
+PDA: 6

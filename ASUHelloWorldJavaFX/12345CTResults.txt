@@ -1,0 +1,1 @@
+Patient ID: 12345The Total Agaston CAC Score: 23Vessel Level Agaston CAC ScoreLM: 23LAD: 23LCX: 23RDA: 23PDA: 23

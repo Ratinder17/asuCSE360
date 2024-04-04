@@ -1,0 +1,8 @@
+Patient ID: 35709
+The Total Agaston CAC Score: 22
+Vessel Level Agaston CAC Score
+LM: 22
+LAD: 22
+LCX: 22
+RDA: 22
+PDA: 22

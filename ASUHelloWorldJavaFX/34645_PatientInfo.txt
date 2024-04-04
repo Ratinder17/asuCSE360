@@ -1,0 +1,4 @@
+Patient ID: 34645
+First Name: R
+Last Name: J
+Exam Date: 26-03-2024

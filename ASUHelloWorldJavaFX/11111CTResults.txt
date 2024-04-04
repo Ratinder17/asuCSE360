@@ -1,0 +1,8 @@
+Patient ID: 11111
+The Total Agaston CAC Score: 1
+Vessel Level Agaston CAC Score
+LM: 1
+LAD: 1
+LCX: 1
+RDA: 1
+PDA: 1

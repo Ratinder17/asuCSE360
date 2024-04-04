@@ -1,0 +1,7 @@
+Patient ID: 14285
+First Name: A
+Last Name: B
+Exam Date: 20-04-2024
+Address: az
+Phone Number: 12345
+Insurance ID: 23234

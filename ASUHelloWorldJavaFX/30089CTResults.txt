@@ -1,0 +1,8 @@
+Patient ID: 30089
+The Total Agaston CAC Score: 9
+Vessel Level Agaston CAC Score
+LM: 3
+LAD: 3
+LCX: 3
+RDA: 0
+PDA: 0

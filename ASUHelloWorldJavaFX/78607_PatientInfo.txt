@@ -1,0 +1,7 @@
+Patient ID: 78607
+First Name: 2
+Last Name: 2
+Exam Date: 14-04-2024
+Address: 2
+Phone Number: 2
+Insurance ID: 2

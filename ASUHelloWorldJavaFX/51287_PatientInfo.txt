@@ -1,0 +1,7 @@
+Patient ID: 51287
+First Name: Ratinder
+Last Name: Joshi
+Exam Date: 09-04-2024
+Address: 2004
+Phone Number: 1234567890
+Insurance ID: 1234512345

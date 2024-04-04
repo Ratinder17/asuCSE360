@@ -1,0 +1,8 @@
+Patient ID: 90141
+The Total Agaston CAC Score: 2
+Vessel Level Agaston CAC Score
+LM: 1
+LAD: 1
+LCX: 0
+RDA: 0
+PDA: 0

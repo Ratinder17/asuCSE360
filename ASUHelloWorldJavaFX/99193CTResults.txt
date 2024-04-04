@@ -1,0 +1,8 @@
+Patient ID: 99193
+The Total Agaston CAC Score: 3
+Vessel Level Agaston CAC Score
+LM: 1
+LAD: 1
+LCX: 1
+RDA: 0
+PDA: 0

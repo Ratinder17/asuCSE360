@@ -1,0 +1,4 @@
+Patient ID: 73498
+First Name: R
+Last Name: A
+Exam Date: 29-03-2024

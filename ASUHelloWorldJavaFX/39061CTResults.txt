@@ -1,0 +1,8 @@
+Patient ID: 39061
+The Total Agaston CAC Score: 105
+Vessel Level Agaston CAC Score
+LM: 21
+LAD: 21
+LCX: 21
+RDA: 21
+PDA: 21
